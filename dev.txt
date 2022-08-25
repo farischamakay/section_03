@@ -2,3 +2,4 @@ file development
 penambahan untuk mencoba fitur stage.
 yang tadi salah.
 add
+menambahkan sesuatu agar terjadi conflict
