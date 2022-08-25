@@ -1,0 +1,1 @@
+Menghapus sesuatu pada dev.txt
